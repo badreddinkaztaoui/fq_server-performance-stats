@@ -28,7 +28,7 @@ git clone https://github.com/badreddinkaztaoui/fq_server-performance-stats
 2. Change the directory to the project directory
 
 ```bash
-cd server-stats
+cd fq_server-performance-stats
 ```
 
 3. Change the permissions of the script
