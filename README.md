@@ -22,7 +22,7 @@ To run the project you need to follow those steps:
 1. Clone the project
 
 ```bash
-git clone https://github.com/badreddinkaztaoui/server-stats.git
+git clone [https://github.com/badreddinkaztaoui/server-stats.git](https://github.com/badreddinkaztaoui/fq_server-performance-stats)
 ```
 
 2. Change the directory to the project directory
